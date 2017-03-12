@@ -1,1 +1,1 @@
-# QATestCase
+# QA Manual Test Cases
